@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm bagas Rosyidi</h1>
 
 
-- 🌱 I’m currently learning on Universitas Negeri Surabaya
-- 👨‍💻 You can also check out my portfolio at [www.linkedin.com/in/bagasrosyidi/](www.linkedin.com/in/bagasrosyidi/)
-- 📫 How to reach me: [rosyidibagas07@gmail.com](rosyidibagas07@gmail.com)
-- ⚡ Fun fact **likes to smile**
+- 🌱 I’m currently learning at Universitas Negeri Surabaya
+- 👨‍💻 You can also check out my portfolio at [LinkedIn](https://www.linkedin.com/in/bagasrosyidi/)
+- 📫 How to reach me: [rosyidibagas07@gmail.com](mailto:rosyidibagas07@gmail.com)
+- ⚡ Fun fact: **likes to smile**
 
 
 ### Github Statistic
