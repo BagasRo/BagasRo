@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning at Universitas Negeri Surabaya
 - 👨‍💻 You can also check out my portfolio at [LinkedIn](https://www.linkedin.com/in/bagasrosyidi/)
-- 📫 How to reach me: [rosyidibagas07@gmail.com](mailto:rosyidibagas07@gmail.com)
+- 📫 How to reach me: [bagasrosyidi@gmail.com](mailto:bagasrosyidi@gmail.com)
 - ⚡ Fun fact: **likes to smile**
 
 
